@@ -1,12 +1,8 @@
 
-Site World
+Site ONE PAGE
 
+HTML / CSS / BOOTSTRAP - responsive
 
-Site World :
+JS / Jquery  (animate scroll)
 
-
-Site world trade :*
-
-
-
-
+OnePage https://htmlpreview.github.io/?https://github.com/NikEurope/Bootstrap/blob/master/OnePage/index.html
